@@ -19,7 +19,7 @@ redirect_from:
 
 I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系) with a master's degree, advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm) and [Guo-Ping Liu(刘国平)](https://www.sustech.edu.cn/en/faculties/guo-pingliu.html). I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo). 
 
-My research interest includes Nonorthogonal multiple access, robust beamforming, optimizaiton and machine learning. I have publish several papers with <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Nonorthogonal multiple access, robust beamforming, optimizaiton and machine learning. I have publish several papers with <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
