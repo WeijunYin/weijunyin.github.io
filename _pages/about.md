@@ -47,7 +47,7 @@ My research interest includes Nonorthogonal multiple access, robust beamforming,
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - Present,  Graduate student, Wuhan University, Hubei.
+- *2019.06 - Present*,  Graduate student, Wuhan University, Hubei.
 - *2015.09 - 2019.06*, Undergraduate, Wuhan University, Hubei.
 
 # 💬 Invited Talks
