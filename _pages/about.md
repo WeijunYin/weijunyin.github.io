@@ -56,6 +56,9 @@ Jiaxin Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng
 
 - [Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9724341), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin** , **TrustCom 2021**
 
+- [Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9724341), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin** , **TrustCom 2021**
+- [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](), **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo, **Submitted to IEEE Transaction on Vehicular Technology**
+- [Tighter Relaxation Techniques for Seeking MoreAccurate AC Optimal Power Flow Solutions](), **Weijun Yin**, Guo-Ping Liu, Wenshan Hu, **To submit**
 # 🎖 Honors and Awards
 - *2021.10* None.
  
