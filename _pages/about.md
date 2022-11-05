@@ -52,7 +52,7 @@ Jiaxin Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng
 </div>
 </div>
 
-- [Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications]([https://github.com](https://ieeexplore.ieee.org/document/9828286)), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin** , **ASCC 2021**
+- [Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications](https://ieeexplore.ieee.org/document/9828286), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin** , **ASCC 2021**
 
 - [Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9724341), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin** , **TrustCom 2021**
 
