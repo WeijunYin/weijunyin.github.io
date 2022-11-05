@@ -31,12 +31,12 @@ My research interest includes Nonorthogonal multiple access, robust beamforming,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCC 2021</div><img src='images/SCMA_SM_Mine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/9828286))
 
-Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin**
+Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://ieeexplore.ieee.org/document/9828286) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This work is dedicated to inverstigating the bit error rate (BER) performance of spatial modulation aided SCMA in underground mine communication. 
 </div>
 </div>
 
