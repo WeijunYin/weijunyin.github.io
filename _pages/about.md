@@ -43,16 +43,18 @@ Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TrustCom 2021</div><img src='images/Robust_AN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/9828286))
+[Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9828286)
 
-Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
+Jiaxin Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng
 
 [**Project**](https://ieeexplore.ieee.org/document/9828286) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work is dedicated to inverstigating the bit error rate (BER) performance of spatial modulation aided SCMA in underground mine communication. 
+- This work is dedicated to designing the robust AN-aided beamforming scheme in the full-duplex relay system in the presence of multiple eavesdroppers.
 </div>
 </div>
 
 - [Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications]([https://github.com](https://ieeexplore.ieee.org/document/9828286)), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin** , **ASCC 2021**
+
+- [Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9724341), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin** , **TrustCom 2021**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
