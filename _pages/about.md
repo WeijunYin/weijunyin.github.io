@@ -31,7 +31,19 @@ My research interest includes Nonorthogonal multiple access, robust beamforming,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCC 2021</div><img src='images/SCMA_SM_Mine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/9828286))
+[Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications](https://ieeexplore.ieee.org/document/9828286)
+
+Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
+
+[**Project**](https://ieeexplore.ieee.org/document/9828286) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This work is dedicated to inverstigating the bit error rate (BER) performance of spatial modulation aided SCMA in underground mine communication. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TrustCom 2021</div><img src='images/Robust_AN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/9828286))
 
 Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
 
