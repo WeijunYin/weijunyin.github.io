@@ -57,9 +57,9 @@ Jiaxin Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng
 - [Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9724341), Jiaxing Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng, **TrustCom 2021**
 - [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](), **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo, **Submitted to IEEE Transaction on Vehicular Technology**
 - [Tighter Relaxation Techniques for Seeking More Accurate AC Optimal Power Flow Solutions](), **Weijun Yin**, Guo-Ping Liu, Wenshan Hu, **To submit**
-# 🎖 Blogs and Books I have ever read.
+#🎖 Blogs and Books I have ever read.
 - *2021.10*  A Primer on Scientific Programming with Python \[[Solution](https://github.com/WeijunYin/PythonBook)\]
- 
+- *2021.10*  Pattern Recognization and Machine Learning \[[Solution](https://github.com/WeijunYin/PRML)\]
 
 # 📖 Educations
 - *2019.06 - Present*,  Graduate student, Wuhan University, Hubei.
