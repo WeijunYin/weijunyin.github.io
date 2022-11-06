@@ -58,7 +58,7 @@ Jiaxin Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng
 - [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](), **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo, **Submitted to IEEE Transaction on Vehicular Technology**
 - [Tighter Relaxation Techniques for Seeking More Accurate AC Optimal Power Flow Solutions](), **Weijun Yin**, Guo-Ping Liu, Wenshan Hu, **To submit**
 # 🎖 Blogs and Books I have ever read.
-- *2021.10* None.
+- *2021.10* [Solution of A primer on Scientific Programming with Python](https://github.com/WeijunYin/PythonBook)
  
 
 # 📖 Educations
