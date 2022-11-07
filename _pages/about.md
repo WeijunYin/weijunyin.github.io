@@ -62,6 +62,7 @@ Jiaxin Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng
 - *2021.10*  A Primer on Scientific Programming with Python \[[Solution](https://github.com/WeijunYin/PythonBook)\]
 - *2021.10*  Pattern Recognization and Machine Learning \[[Solution](https://github.com/WeijunYin/PRML)\]
 - *2021.10*  Convex Optimization by Boyd \[[Solution](https://github.com/WeijunYin/Convex-Optimization)\]
+
 # 📖 Educations
 - *2019.06 - Present*,  Graduate student, Wuhan University, Hubei.
 - *2015.09 - 2019.06*, Undergraduate, Wuhan University, Hubei.
