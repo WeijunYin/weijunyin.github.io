@@ -23,7 +23,7 @@ My research interest includes Nonorthogonal multiple access, robust beamforming,
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Our paper Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation is accepted by **IEEE Transactions on Vehicular Technology**
+- *2022.11*: &nbsp;🎉🎉 Our paper Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation is accepted by **IEEE Transactions on Vehicular Technology**
 
 
 # 📝 Publications 
