@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系) with a master's degree, advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm) and [Guo-Ping Liu(刘国平)](https://www.sustech.edu.cn/en/faculties/guo-pingliu.html). I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo). 
+I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系) with a master's degree, advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm). Now I'm persuing my phd degree in control science and engineering under the supervision of [Guo-Ping Liu(刘国平)](https://www.sustech.edu.cn/en/faculties/guo-pingliu.html) and [Wenshan Hu](http://jszy.whu.edu.cn/huwenshan/zh_CN/index.htm). I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo). 
 
 My research interest includes Nonorthogonal multiple access, robust beamforming, optimizaiton and machine learning. I have publish several paper.
 
