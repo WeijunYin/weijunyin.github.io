@@ -37,7 +37,7 @@ My research interest includes Nonorthogonal multiple access, robust beamforming,
 **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo
 
 [**Project**](https://ieeexplore.ieee.org/document/9947319/authors#authors) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work is dedicated to explore the BER and secrecy rate performance of the CQI-Mapped GSM with the aided of artificial noise.
+- This work is dedicated to exploring the BER and secrecy rate performance of the CQI-Mapped GSM with the aided of artificial noise.
 </div>
 </div>
 
