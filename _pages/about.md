@@ -28,6 +28,19 @@ My research interest includes Nonorthogonal multiple access, robust beamforming,
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVT 2022</div><img src='images/Robust_AN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](https://ieeexplore.ieee.org/document/9947319/authors#authors)
+
+**Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo
+
+[**Project**](https://ieeexplore.ieee.org/document/9947319/authors#authors) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This work is dedicated to explore the BER and secrecy rate performance of the CQI-Mapped GSM with the aided of artificial noise.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCC 2021</div><img src='images/SCMA_SM_Mine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +68,7 @@ Jiaxin Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng
 - [Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications](https://ieeexplore.ieee.org/document/9828286), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin*** , **ASCC 2021**
 
 - [Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9724341), Jiaxing Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng, **TrustCom 2021**
-- [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](), **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo, **Accepted by IEEE Transaction on Vehicular Technology**
+- [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](https://ieeexplore.ieee.org/document/9947319), **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo, **Accepted by IEEE Transaction on Vehicular Technology**
 - [Tighter Relaxation Techniques for Seeking More Accurate AC Optimal Power Flow Solutions](), **Weijun Yin**, Guo-Ping Liu, Wenshan Hu, **To Submit**
 - [Incorporating Robust AN into Beamforming Design in Hybrid Powerline/Wireless Communication](), **In Progress**
 # 🎖 Blogs and Books I have ever read.
