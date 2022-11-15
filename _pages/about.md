@@ -29,7 +29,7 @@ My research interest includes Nonorthogonal multiple access, robust beamforming,
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVT 2022</div><img src='imagessystemModel_CQI_SM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVT 2022</div><img src='images/systemModel_CQI_SM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](https://ieeexplore.ieee.org/document/9947319/authors#authors)
