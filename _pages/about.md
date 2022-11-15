@@ -53,21 +53,8 @@ Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TrustCom 2021</div><img src='images/Robust_AN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9828286)
-
-Jiaxin Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng
-
-[**Project**](https://ieeexplore.ieee.org/document/9828286) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work is dedicated to designing the robust AN-aided beamforming scheme in the full-duplex relay system in the presence of multiple eavesdroppers.
-</div>
-</div>
 
 - [Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications](https://ieeexplore.ieee.org/document/9828286), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin*** , **ASCC 2021**
-
-- [Robust AN-aided Secure Beamforming for Full-Duplex Relay System with Multiple Eavesdroppers](https://ieeexplore.ieee.org/document/9724341), Jiaxing Cui, Zhengmin Kong, Jing Song, **Weijun Yin**, Xianjun Deng, **TrustCom 2021**
 - [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](https://ieeexplore.ieee.org/document/9947319), **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo, **Accepted by IEEE Transaction on Vehicular Technology**
 - [Tighter Relaxation Techniques for Seeking More Accurate AC Optimal Power Flow Solutions](), **Weijun Yin**, Guo-Ping Liu, Wenshan Hu, **To Submit**
 - [Incorporating Robust AN into Beamforming Design in Hybrid Powerline/Wireless Communication](), **In Progress**
