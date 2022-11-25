@@ -58,7 +58,7 @@ Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
 - [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](https://ieeexplore.ieee.org/document/9947319), **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo, **Accepted by IEEE Transaction on Vehicular Technology**
 - [Tighter Relaxation Techniques for Seeking More Accurate AC Optimal Power Flow Solutions](), **Weijun Yin**, Guo-Ping Liu, Wenshan Hu, **To Submit**
 - [Incorporating Robust AN into Beamforming Design in Hybrid Powerline/Wireless Communication](), **In Progress**
-# 🎖 Blogs and Books I have ever read.
+# 🎖 Blogs and Books I recently read.
 - *2021.10*  A Primer on Scientific Programming with Python \[[Solution](https://github.com/WeijunYin/PythonBook)\]
 - *2021.10*  Pattern Recognization and Machine Learning \[[Solution](https://github.com/WeijunYin/PRML)\]
 - *2021.10*  Convex Optimization by Boyd \[[Solution](https://github.com/WeijunYin/Convex-Optimization)\]
@@ -67,7 +67,7 @@ Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
 - *2021.10*  Daily Reading \[[Link](https://github.com/WeijunYin/Summary-Everyday)\]
 - *2021.10*  Technical Reports \[[Link](https://github.com/WeijunYin/Technical-Report)\]
 # 📖 Educations
-- *2019.06 - Present*,  Graduate student, Wuhan University, Hubei.
+- *2020.06 - Present*,  Graduate student, Wuhan University, Hubei.
 - *2015.09 - 2019.06*, Undergraduate, Wuhan University, Hubei.
 
 # 💬 Invited Talks
