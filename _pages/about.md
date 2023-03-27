@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系) with a master's degree, advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm).  I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo). I'm persuing the phd degree under the supervision of [Guo-Ping Liu(刘国平)](https://eee.sustech.edu.cn/?view=%E5%88%98%E5%9B%BD%E5%B9%B3&jsid=18). The Key of my doctorial research is to incorporate the signal processing and machine learning technique for accurately predicting the wind power generation.
+I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系) with a master's degree, advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm).  I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo). I'm persuing the phd degree under the supervision of [Guo-Ping Liu(刘国平)](https://eee.sustech.edu.cn/?view=%E5%88%98%E5%9B%BD%E5%B9%B3&jsid=18). The Key of my doctorial research is to incorporate the signal processing and machine learning technique for accurately predicting the wind power generation. My personal blog is [here](https://weijunyin.github.io/WeiJun_Blogs/)
 
 My research interest includes Nonorthogonal multiple access, robust beamforming, optimizaiton and machine learning. I have publish several paper.
 
