@@ -56,8 +56,6 @@ Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
 
 - [Spatially Modulated Sparse Code Multiple Access in Uplink Mine Communications](https://ieeexplore.ieee.org/document/9828286), Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin*** , **ASCC 2021**
 - [Artificial-Noise-Aided CQI-Mapped Generalized Spatial Modulation](https://ieeexplore.ieee.org/document/9947319), **Weijun Yin**, Zhengmin Kong, Yusha Liu, Yuli Yang, Lajos Hanzo, **Accepted by IEEE Transaction on Vehicular Technology**
-- [Tighter Relaxation Techniques for Seeking More Accurate AC Optimal Power Flow Solutions](), **Weijun Yin**, Guo-Ping Liu, Wenshan Hu, **To Submit**
-- [Incorporating Robust AN into Beamforming Design in Hybrid Powerline/Wireless Communication](), **In Progress**
 # 🎖 Blogs and Books I recently read.
 - *2021.10*  A Primer on Scientific Programming with Python \[[Solution](https://github.com/WeijunYin/PythonBook)\]
 - *2021.10*  Pattern Recognization and Machine Learning \[[Solution](https://github.com/WeijunYin/PRML)\]
