@@ -69,7 +69,7 @@ Wei Meng, Yidong Gu, Jianjun Bao, Zhen Lian, Zhengmin Kong, **Weijun Yin***
 - *2015.09 - 2019.06*, Undergraduate, Wuhan University, Hubei.
 
 # 💬 Invited Talks
-- *2023.03*, Incorportating variational mode decomposition into wind power forecasting. 
+- *2023.03*, Incorportating variational mode decomposition into wind power forecasting， Doctor Forum in Wuhan University. 
 - *0000.00*, None  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
