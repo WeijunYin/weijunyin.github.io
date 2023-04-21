@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系) with a master's degree, advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm).  I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo). I'm persuing the phd degree under the supervision of [Guo-Ping Liu(刘国平)](https://eee.sustech.edu.cn/?view=%E5%88%98%E5%9B%BD%E5%B9%B3&jsid=18). The Key of my doctorial research is to incorporate the signal processing and machine learning technique for accurately predicting the wind power generation. My personal blog is [here](https://weijunyin.github.io/Tech_blogs/).
+I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系). I am taking a successive master-doctor programm advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm) and [Guo-Ping Liu(刘国平)]. Now I'm persuing the phd degree under the supervision of [Guo-Ping Liu](https://eee.sustech.edu.cn/?view=%E5%88%98%E5%9B%BD%E5%B9%B3&jsid=18) and [Wenshan Hu(胡文山)](http://jszy.whu.edu.cn/huwenshan/zh_CN/index.htm).  I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo), [Yusha Liu(刘雨莎)](http://www.deinlab.com/2023/02/27/%e5%88%98%e9%9b%a8%e8%8e%8e/), and [Yuli Yang](https://staff.lincoln.ac.uk/yyang). The Key of my doctorial research is to incorporate the signal processing and machine learning technique for accurately predicting the wind power generation. My personal blog is [here](https://weijunyin.github.io/Tech_blogs/).
 
-My research interest includes Nonorthogonal multiple access, robust beamforming, optimizaiton and machine learning. I have publish several paper.
+I've always been interested in find simple yet useful solutions for power grid communication and operation that improves performance and enhance security by leveraging pervasive artificial intelligence techniques. When I look back at the difficuilties I've addressed and forward to the challenges I hope to copy with, I notice that the problems are becoming more focused and my footing is becoming less secure. Every piece of wisdom I once held true has now been called into question. 
+
+I have an interest in Wireless Communication, especially in the beamforming design and nonorthogonal multiple access scheme. I'm aslo interested in the Time Series Forecasting and optimal power flow in the Renewable. 
+
 
 
 # 🔥 News
