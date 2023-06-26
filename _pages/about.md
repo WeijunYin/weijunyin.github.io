@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系). I am pursuing a master degree advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm).  I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo), [Yusha Liu(刘雨莎)](http://www.deinlab.com/2023/02/27/%e5%88%98%e9%9b%a8%e8%8e%8e/), and [Yuli Yang](https://staff.lincoln.ac.uk/yyang). The Key of my master project is to combine the spatial modulation with sparse code multiple access. I'm also interested in beamforming techniques. My personal blog is [here](https://weijunyin.github.io/Tech_blogs/)
+I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachelor's degree and from the Department of Artificial Intelligence and Automation, Wuhan Univeristy (武汉大学人工智能与自动化系). I am pursuing a master degree advised by [Zhengmin Kong(孔政敏)](http://jszy.whu.edu.cn/kongzhengmin/en/index.htm).  I also collaborate with [Lajos Hanzo](https://www.southampton.ac.uk/people/5wxxn8/professor-lajos-hanzo), [Yusha Liu(刘雨莎)](http://www.deinlab.com/2023/02/27/%e5%88%98%e9%9b%a8%e8%8e%8e/), and [Yuli Yang](https://staff.lincoln.ac.uk/yyang). The Key of my master project is to combine the spatial modulation with sparse code multiple access. I'm also interested in beamforming techniques. My personal blog is [here](https://weijunyin.github.io/Tech_blogs/).
 
 
 
